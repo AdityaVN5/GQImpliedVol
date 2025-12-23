@@ -10,7 +10,8 @@
 
 Forecasting cryptocurrency implied volatility using gradient boosting with cross-asset feature engineering and time-series validation [file:2].
 
----
+<img width="1410" height="215" alt="image" src="https://github.com/user-attachments/assets/bb306f1b-2bc2-4e38-8c08-2f2830f1aa5e" />
+
 
 ## Methodology
 
